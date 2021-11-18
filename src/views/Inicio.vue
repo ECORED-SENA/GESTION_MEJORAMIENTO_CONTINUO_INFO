@@ -17,7 +17,7 @@ section
                 p.banner-principal__datos__item__texto Calidad: gestión del mejoramiento continuo
               li.mb-3.banner-principal__datos__item
                 p.h6.mb-0.me-3.banner-principal__datos__item__titulo Código: 
-                p.banner-principal__datos__item__texto 11220142
+                p.banner-principal__datos__item__texto 12110085
               li.mb-3.banner-principal__datos__item
                 p.h6.mb-0.me-3.banner-principal__datos__item__titulo Total Horas: 
                 p.banner-principal__datos__item__texto 48
@@ -75,7 +75,7 @@ section
     ul.lista-ul
         li 
           i.fas.fa-angle-right
-          | Elaborar la propuesta de solución con base en las metodologías y el procedimiento técnico.
+          | Elaborar propuesta de solución con base en metodologías y procedimiento técnico.
   .container.tarjeta.tarjeta__template--azul-claro.p-4.p-md-5.mb-5(data-aos="fade-up")
     .titulo__template--a.mb-4
       span.h4 4. Perfil de ingreso
